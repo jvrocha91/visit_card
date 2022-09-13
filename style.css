@@ -1,0 +1,35 @@
+body {
+	background-color: rgb(190, 188, 188);
+}
+
+.card{
+	
+	background-color:rgb(242, 236, 227);
+	background-size: cover;
+	box-sizing: border-box;
+	padding: 1px 20px;
+	width: 400px;
+	height: 200px;
+	font-family: arial;
+	font-size: 20px;
+	font-weight: 10px;
+	margin: auto;
+	margin-top: 10%;
+    color: black;
+	border: white;
+	
+}
+
+a{ text-decoration: none; 
+	color: rgb(25, 23, 23);}
+
+
+.Instagram { list-style-image: url(../Imagens/Insta.png);
+	border-radius: 100%;
+	border-color: black;
+
+}
+.Twitter{ list-style-image: url(../Imagens/Twitter.png);}
+
+.Youtube{list-style-image: url(../Imagens/Youtube.png)}
+
